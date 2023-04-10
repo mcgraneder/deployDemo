@@ -30,4 +30,4 @@ const nextConfig = {
     ];
   },
 };
-export default config;
+export default nextConfig;
